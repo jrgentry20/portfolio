@@ -1,12 +1,14 @@
 # Jerry Gentry Portfolio
 
-## Education
--MASTER OF ARTS IN EDUCATION – Pacific Lutheran University – Tacoma, WA
+### Technical Skills: Excel, SQL, Tableau, R, Python
+### Soft Skills: Interpersonal Communication, 
 
--BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE – Iowa State University – Ames, IA
+## Education
+-M.A., EDUCATION | Pacific Lutheran University – Tacoma, WA       
+-B.S., ENVIRONMENTAL SCIENCE | Iowa State University – Ames, IA
 
 ## Work Experience
-### SUBSTITUTE TEACHER – Bellingham Public Schools – Bellingham, WA	September 2022 - Present
+**Substitute Teacher at Bellingham Public Schools – Bellingham, WA	September 2022 - Present**
 
 -Managed diverse classroom settings daily, demonstrating ability to quickly analyze and respond to changing variables
 
@@ -16,7 +18,7 @@
 
 -Built strong relationships with diverse stakeholders, conveying information clearly
 
-### SHIPPING AND RECEIVING SPECIALIST – REI – Tukwila, WA 	June 2019 – June 2021
+**Shipping and Receiving Specialist – REI – Tukwila, WA 	June 2019 – June 2021**
 
 -Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to procedures
 
