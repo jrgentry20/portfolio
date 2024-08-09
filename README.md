@@ -1,10 +1,10 @@
-# portfolio
+# Jerry Gentry Portfolio
 
-###Education
+### Education
 MASTER OF ARTS IN EDUCATION – Pacific Lutheran University – Tacoma, WA
 BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE – Iowa State University – Ames, IA
 
-###Work Experience
+### Work Experience
 SUBSTITUTE TEACHER – Bellingham Public Schools – Bellingham, WA	September 2022 - Present
 ●	Managed diverse classroom settings daily, demonstrating ability to quickly analyze and respond to changing variables
 ●	Utilized student data to inform instructional decisions, showcasing data-based problem-solving skills
@@ -19,7 +19,7 @@ PROGRAM ASSISTANT – Mission Springs Outdoor Education – Scotts Valley, CA 	A
 ●	Built positive relationships with diverse groups, including students, staff, and community partners
 ●	Successfully addressed challenges in dynamic outdoor environments, demonstrating adaptability and resourcefulness
 
-###Projects
+### Projects
 ANALYZING STUDENT PERFORMANCE DATA(SQL) – Personal Project – Bellingham, WA	August 2024
 ●	Demonstrated advanced SQL skills through data manipulation, aggregation, and complex query creation
 ●	Conducted statistical analysis to determine correlations between student demographics, behaviors, and academic outcomes
