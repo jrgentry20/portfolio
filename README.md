@@ -4,7 +4,7 @@
 ### Soft Skills: Interpersonal Communication, 
 
 ## Education
-- M.A., Education | Pacific Lutheran University – Tacoma, WA       
+- M.A., Education |             Pacific Lutheran University – Tacoma, WA       
 - B.S., Environmental Science | Iowa State University – Ames, IA
 
 ## Work Experience
