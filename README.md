@@ -1,11 +1,11 @@
 # Jerry Gentry Portfolio
 
 ### Technical Skills: Excel, SQL, Tableau, R, Python
-### Soft Skills: Interpersonal Communication, 
+### Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
 ## Education
-- M.A., Education |             Pacific Lutheran University – Tacoma, WA       
-- B.S., Environmental Science | Iowa State University – Ames, IA
+- M.A. Education |             Pacific Lutheran University – Tacoma, WA       
+- B.S. Environmental Science | Iowa State University – Ames, IA
 
 ## Work Experience
 **Substitute Teacher at Bellingham Public Schools – Bellingham, WA	(September 2022 - Present)**
@@ -16,11 +16,11 @@
 
 - Prioritized tasks and managed time effectively in fast-paced environment
 
-- Built strong relationships with diverse stakeholders, conveying information clearly
+- Built strong relationships with diverse community stakeholders, conveying information clearly
 
 **Shipping and Receiving Specialist at REI – Tukwila, WA 	June 2019 – June 2021**
 
-- Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to procedures
+- Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to standard operating procedures
 
 - Optimized shipping and receiving processes to maximize productivity and meet deadlines
 
@@ -28,7 +28,7 @@
 
 **Program Assistant at Mission Springs Outdoor Education – Scotts Valley, CA 	Aug 2016 – May 2019**
 
-- Managed multiple program components, including logistics, participant management, and equipment inventory
+- Managed multiple program components, including logistics, risk assessment, participants, and equipment inventory
 
 - Built positive relationships with diverse groups, including students, staff, and community partners
 
@@ -47,7 +47,7 @@
 
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
-- Created a dashboard with Tableau visualize factors affecting student performance in a high school
+- Created a dashboard with Tableau visualizing factors affecting student performance in a high school
 
 - Calculated fields to create custom metrics and KPIs, providing deeper insights into student achievement
 
