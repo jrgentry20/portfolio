@@ -6,18 +6,21 @@
   BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE – Iowa State University – Ames, IA
 
 ### Work Experience
-SUBSTITUTE TEACHER – Bellingham Public Schools – Bellingham, WA	September 2022 - Present
+## SUBSTITUTE TEACHER – Bellingham Public Schools – Bellingham, WA	September 2022 - Present
+
 ●	Managed diverse classroom settings daily, demonstrating ability to quickly analyze and respond to changing variables
 ●	Utilized student data to inform instructional decisions, showcasing data-based problem-solving skills
 ●	Prioritized tasks and managed time effectively in fast-paced environment
 ●	Built strong relationships with diverse stakeholders, conveying information clearly
 
-SHIPPING AND RECEIVING SPECIALIST – REI – Tukwila, WA 	June 2019 – June 2021
+## SHIPPING AND RECEIVING SPECIALIST – REI – Tukwila, WA 	June 2019 – June 2021
+
 ●	Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to procedures
 ●	Optimized shipping and receiving processes to maximize productivity and meet deadlines
 ●	Identified and resolved discrepancies in inventory data, demonstrating problem-solving skills
 
-PROGRAM ASSISTANT – Mission Springs Outdoor Education – Scotts Valley, CA 	Aug 2016 – May 2019
+## PROGRAM ASSISTANT – Mission Springs Outdoor Education – Scotts Valley, CA 	Aug 2016 – May 2019
+
 ●	Managed multiple program components, including logistics, participant management, and equipment inventory
 ●	Built positive relationships with diverse groups, including students, staff, and community partners
 ●	Successfully addressed challenges in dynamic outdoor environments, demonstrating adaptability and resourcefulness
