@@ -2,6 +2,7 @@
 
 ### Education
   MASTER OF ARTS IN EDUCATION – Pacific Lutheran University – Tacoma, WA
+  
   BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE – Iowa State University – Ames, IA
 
 ### Work Experience
