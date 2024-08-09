@@ -4,8 +4,8 @@
 ### Soft Skills: Interpersonal Communication, 
 
 ## Education
-- M.A., EDUCATION | Pacific Lutheran University – Tacoma, WA       
-- B.S., ENVIRONMENTAL SCIENCE | Iowa State University – Ames, IA
+- M.A., Education | Pacific Lutheran University – Tacoma, WA       
+- B.S., Environmental Science | Iowa State University – Ames, IA
 
 ## Work Experience
 **Substitute Teacher at Bellingham Public Schools – Bellingham, WA	(September 2022 - Present)**
@@ -18,7 +18,7 @@
 
 - Built strong relationships with diverse stakeholders, conveying information clearly
 
-**Shipping and Receiving Specialist – REI – Tukwila, WA 	June 2019 – June 2021**
+**Shipping and Receiving Specialist at REI – Tukwila, WA 	June 2019 – June 2021**
 
 - Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to procedures
 
@@ -26,7 +26,7 @@
 
 - Identified and resolved discrepancies in inventory data, demonstrating problem-solving skills
 
-### PROGRAM ASSISTANT – Mission Springs Outdoor Education – Scotts Valley, CA 	Aug 2016 – May 2019
+**Program Assistant at Mission Springs Outdoor Education – Scotts Valley, CA 	Aug 2016 – May 2019**
 
 - Managed multiple program components, including logistics, participant management, and equipment inventory
 
@@ -37,7 +37,7 @@
 
 ## Projects
 
-### ANALYZING STUDENT PERFORMANCE DATA(SQL) – Personal Project – Bellingham, WA	August 2024
+**Analyzing Student Performance Data(SQL) – Personal Project**
 
 - Demonstrated advanced SQL skills through data manipulation, aggregation, and complex query creation
 
@@ -45,7 +45,7 @@
 
 - Prepared data for visualization to uncover trends and patterns, laying groundwork for further analysis
 
-### STUDENT PERFORMANCE FACTORS DASHBOARD(TABLEAU) – Personal Project – Bellingham, WA	August 2024
+**Student Performance Factors Dashboard(Tableau) – Personal Project**
 
 - Created a dashboard with Tableau visualize factors affecting student performance in a high school
 
@@ -55,7 +55,7 @@
 
 - Designed linked dashboards to facilitate seamless exploration of related data and uncover hidden patterns
 
-### HR RETENTION DASHBOARD(EXCEL) – Personal Project – Bellingham, WA 	August 2024
+**HR Retention Dashboard(Excel) – Personal Project**
 
 - Conducted comprehensive data analysis of HR metrics to identify key drivers of employee retention and churn
 
