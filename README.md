@@ -1,17 +1,15 @@
 # Jerry Gentry Portfolio
 
 ### Education
-  MASTER OF ARTS IN EDUCATION – Pacific Lutheran University – Tacoma, WA
-  
-  BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE – Iowa State University – Ames, IA
+-MASTER OF ARTS IN EDUCATION – Pacific Lutheran University – Tacoma, WA
+-BACHELOR OF SCIENCE IN ENVIRONMENTAL SCIENCE – Iowa State University – Ames, IA
 
 ### Work Experience
 ## SUBSTITUTE TEACHER – Bellingham Public Schools – Bellingham, WA	September 2022 - Present
-
-●	Managed diverse classroom settings daily, demonstrating ability to quickly analyze and respond to changing variables
-●	Utilized student data to inform instructional decisions, showcasing data-based problem-solving skills
-●	Prioritized tasks and managed time effectively in fast-paced environment
-●	Built strong relationships with diverse stakeholders, conveying information clearly
+-Managed diverse classroom settings daily, demonstrating ability to quickly analyze and respond to changing variables
+-Utilized student data to inform instructional decisions, showcasing data-based problem-solving skills
+-Prioritized tasks and managed time effectively in fast-paced environment
+-Built strong relationships with diverse stakeholders, conveying information clearly
 
 ## SHIPPING AND RECEIVING SPECIALIST – REI – Tukwila, WA 	June 2019 – June 2021
 
