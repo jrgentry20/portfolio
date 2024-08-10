@@ -34,6 +34,21 @@
 
 - Successfully addressed challenges in dynamic outdoor environments, demonstrating adaptability and resourcefulness
 
+**Canopy Tour Guide at Mount Hermon Adventures - Felton, CA May 2017 - August 2018**
+
+- Gathered and analyzed qualitative data on group dynamics and environmental factors to enhance tour experiences
+
+- Provided exceptional customer service by effectively communicating complex information in a clear and engaging manner
+
+- Ensured adherence to safety protocols and operational standards through meticulous inspection and data management
+
+**Laboratory Technician at Iowa State University Wetland Research Laboratory- Ames, IA May 2015-May 2016**
+
+- Conducted spectrophotometric analysis on water samples to determine nutrient levels. Processed and prepared samples for analysis, ensuring data accuracy and integrity
+
+- Maintained organized laboratory records and assisted with data organization for research projects
+
+- Contributed to research projects through sample collection, testing, and data preparation
 
 ## Projects
 
