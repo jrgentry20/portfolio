@@ -54,27 +54,16 @@
 
 **Analyzing Student Performance Data(SQL) – Personal Project**
 
-- Demonstrated advanced SQL skills through data manipulation, aggregation, and complex query creation
+I demonstrated advanced SQL skills by manipulating, aggregating, and creating complex queries within the dataset. Through statistical analysis, I identified correlations between student demographics, behaviors, and academic performance. By preparing and visualizing the data, I uncovered trends and patterns that laid the groundwork for further exploration. 
 
-- Conducted statistical analysis to determine correlations between student demographics, behaviors, and academic outcomes
-
-- Prepared data for visualization to uncover trends and patterns, laying groundwork for further analysis
 
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
-- Created a dashboard with Tableau visualizing factors affecting student performance in a high school
+I developed an interactive Tableau dashboard to illuminate the factors influencing student performance at a high school. By calculating custom metrics and KPIs, I provided in-depth insights into student achievement. To enhance user experience, I incorporated intuitive filters and parameters, allowing for dynamic exploration of the data. To facilitate a comprehensive understanding, I designed linked dashboards, enabling seamless navigation and discovery of hidden patterns within the dataset. 
 
-- Calculated fields to create custom metrics and KPIs, providing deeper insights into student achievement
-
-- Implemented effective use of filters and parameters to enhance dashboard interactivity and user experience
-
-- Designed linked dashboards to facilitate seamless exploration of related data and uncover hidden patterns
 
 **HR Retention Dashboard(Excel) – Personal Project**
 
-- Conducted comprehensive data analysis of HR metrics to identify key drivers of employee retention and churn
+I delved into the company's HR data to uncover the underlying factors driving employee retention and turnover. Employing advanced Excel functionalities, I meticulously transformed raw data into a digestible format, ready for analysis. To provide actionable insights, I constructed an interactive Excel dashboard that dynamically displays retention trends, employee lifecycle stages, and the correlation between HR metrics and business outcomes. This dashboard empowers users to explore data flexibly by filtering information based on department, salary range, job satisfaction, and other key variables, facilitating data-driven decision-making. 
 
-- Leveraged advanced Excel capabilities to cleanse, transform, and model large HR datasets for actionable insights
-
-- Developed an interactive dashboard to visualize retention trends, employee lifecycle stages, and correlate HR metrics with business outcomes
 
