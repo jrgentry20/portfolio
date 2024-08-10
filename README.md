@@ -1,6 +1,6 @@
 # Jerry Gentry Portfolio
 
-### Technical Skills: Excel, SQL, Tableau, R, Python
+### Technical Skills: Excel, SQL, Tableau, R, Python, PowerPoint/Slides, AI Prompting
 ### Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
 ## Education
@@ -18,7 +18,7 @@
 
 - Built strong relationships with diverse community stakeholders, conveying information clearly
 
-**Shipping and Receiving Specialist at REI – Tukwila, WA 	June 2019 – June 2021**
+**Shipping and Receiving Specialist at REI – Tukwila, WA 	(June 2019 – June 2021)**
 
 - Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to standard operating procedures
 
@@ -26,7 +26,7 @@
 
 - Identified and resolved discrepancies in inventory data, demonstrating problem-solving skills
 
-**Program Assistant at Mission Springs Outdoor Education – Scotts Valley, CA 	Aug 2016 – May 2019**
+**Program Assistant at Mission Springs Outdoor Education – Scotts Valley, CA 	(Aug 2016 – May 2019)**
 
 - Managed multiple program components, including logistics, risk assessment, participants, and equipment inventory
 
@@ -34,7 +34,7 @@
 
 - Successfully addressed challenges in dynamic outdoor environments, demonstrating adaptability and resourcefulness
 
-**Canopy Tour Guide at Mount Hermon Adventures - Felton, CA May 2017 - August 2018**
+**Canopy Tour Guide at Mount Hermon Adventures - Felton, CA (May 2017 - August 2018)**
 
 - Gathered and analyzed qualitative data on group dynamics and environmental factors to enhance tour experiences
 
@@ -42,7 +42,7 @@
 
 - Ensured adherence to safety protocols and operational standards through meticulous inspection and data management
 
-**Laboratory Technician at Iowa State University Wetland Research Laboratory- Ames, IA May 2015-May 2016**
+**Laboratory Technician at Iowa State University Wetland Research Laboratory- Ames, IA (May 2015-May 2016)**
 
 - Conducted spectrophotometric analysis on water samples to determine nutrient levels. Processed and prepared samples for analysis, ensuring data accuracy and integrity
 
