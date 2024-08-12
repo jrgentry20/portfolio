@@ -62,7 +62,7 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 I developed an interactive Tableau dashboard to illuminate the factors influencing student performance at a high school. By calculating custom metrics and KPIs, I provided in-depth insights into student achievement. To enhance user experience, I incorporated intuitive filters and parameters, allowing for dynamic exploration of the data. To facilitate a comprehensive understanding, I designed linked dashboards, enabling seamless navigation and discovery of hidden patterns within the dataset. 
 
-![Student Performance Dashboard](https://github.com/jrgentry20/portfolio/blob/main/Picture1.png)
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%201.png?raw=true)
 
 **HR Retention Dashboard(Excel) – Personal Project**
 
