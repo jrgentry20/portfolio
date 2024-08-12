@@ -1,5 +1,7 @@
 --Finding Trends in Student Performance
 --This project will involve Data Cleaning and Exploration to see what variables affect student performance the most.
+--This project used Student Performance data acquired on Kaggle (https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset). 
+--The purpose of this project was to clean and explore the data using SSMS to find trends in what was affecting student performance at a high school. 
 
 --View Table
 SELECT *
@@ -17,9 +19,9 @@ ALTER COLUMN Gender varchar(10);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Gender = 
 CASE WHEN Gender = 0 THEN 'Male'
-     WHEN Gender = 1 THEN 'Female'
-     ELSE Gender
-     END;
+Â Â Â Â  WHEN Gender = 1 THEN 'Female'
+Â Â Â Â  ELSE Gender
+Â Â Â Â  END;
 
 --1b.Change Ethnicity Numbers to Descriptions
 		--0: Caucasian, 1: African American, 2: Asian 3: Other
@@ -30,11 +32,11 @@ ALTER COLUMN Ethnicity varchar(20);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Ethnicity = 
 CASE WHEN Ethnicity = 0 THEN 'Caucasian'
-     WHEN Ethnicity = 1 THEN 'African American'
+Â Â Â Â  WHEN Ethnicity = 1 THEN 'African American'
 	 WHEN Ethnicity = 2 THEN 'Asian'
 	 WHEN Ethnicity = 3 THEN 'Other'
-     ELSE Ethnicity
-     END;
+Â Â Â Â  ELSE Ethnicity
+Â Â Â Â  END;
 
 --1c.Change ParentalEducation Numbers to Descriptions
 		--0: None, 1: High School, 2: Some College, 3: Bachelor's, 4: Higher
@@ -45,12 +47,12 @@ ALTER COLUMN ParentalEducation varchar(20);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET ParentalEducation = 
 CASE WHEN ParentalEducation = 0 THEN 'None'
-     WHEN ParentalEducation = 1 THEN 'High School'
+Â Â Â Â  WHEN ParentalEducation = 1 THEN 'High School'
 	 WHEN ParentalEducation = 2 THEN 'Some College'
 	 WHEN ParentalEducation = 3 THEN 'Bachelors'
 	 WHEN ParentalEducation = 4 THEN 'Higher'
-     ELSE ParentalEducation
-     END;
+Â Â Â Â  ELSE ParentalEducation
+Â Â Â Â  END;
 
 --1d.Changed StudyTimeWeekly to WeeklyStudyHours for Clarity Using the Object Explorer
 
@@ -62,9 +64,9 @@ ALTER COLUMN Tutoring varchar(10);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Tutoring = 
 CASE WHEN Tutoring = 0 THEN 'No'
-     WHEN Tutoring = 1 THEN 'Yes'
-     ELSE Tutoring
-     END;
+Â Â Â Â  WHEN Tutoring = 1 THEN 'Yes'
+Â Â Â Â  ELSE Tutoring
+Â Â Â Â  END;
 
 --1f.Change ParentalSupport From Numbers to Descriptions for Clarity
 		--0: None, 1: Low, 2: Moderate, 3: High, 4: Very High
@@ -75,12 +77,12 @@ ALTER COLUMN ParentalSupport varchar(20);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET ParentalSupport = 
 CASE WHEN ParentalSupport = 0 THEN 'None'
-     WHEN ParentalSupport = 1 THEN 'Low'
+Â Â Â Â  WHEN ParentalSupport = 1 THEN 'Low'
 	 WHEN ParentalSupport = 2 THEN 'Moderate'
 	 WHEN ParentalSupport = 3 THEN 'High'
 	 WHEN ParentalSupport = 4 THEN 'Very High'
-     ELSE ParentalSupport
-     END;
+Â Â Â Â  ELSE ParentalSupport
+Â Â Â Â  END;
 
 --1g.Change Extracurricular From Numbers to Descriptions For Clarity
 
@@ -90,9 +92,9 @@ ALTER COLUMN Extracurricular varchar(10);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Extracurricular = 
 CASE WHEN Extracurricular = 0 THEN 'No'
-     WHEN Extracurricular = 1 THEN 'Yes'
-     ELSE Extracurricular
-     END;
+Â Â Â Â  WHEN Extracurricular = 1 THEN 'Yes'
+Â Â Â Â  ELSE Extracurricular
+Â Â Â Â  END;
 
 --1h.Change Sports From Numbers to Descriptions For Clarity
 
@@ -102,9 +104,9 @@ ALTER COLUMN Sports varchar(10);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Sports = 
 CASE WHEN Sports = 0 THEN 'No'
-     WHEN Sports = 1 THEN 'Yes'
-     ELSE Sports
-     END;
+Â Â Â Â  WHEN Sports = 1 THEN 'Yes'
+Â Â Â Â  ELSE Sports
+Â Â Â Â  END;
 
 --1i.Change Music From Numbers to Descriptions For Clarity
 
@@ -114,9 +116,9 @@ ALTER COLUMN Music varchar(10);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Music = 
 CASE WHEN Music = 0 THEN 'No'
-     WHEN Music = 1 THEN 'Yes'
-     ELSE Music
-     END;
+Â Â Â Â  WHEN Music = 1 THEN 'Yes'
+Â Â Â Â  ELSE Music
+Â Â Â Â  END;
 
 --1j.Change Volunteering From Numbers to Descriptions For Clarity
 
@@ -126,9 +128,9 @@ ALTER COLUMN Volunteering varchar(10);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET Volunteering = 
 CASE WHEN Volunteering = 0 THEN 'No'
-     WHEN Volunteering = 1 THEN 'Yes'
-     ELSE Volunteering
-     END;
+Â Â Â Â  WHEN Volunteering = 1 THEN 'Yes'
+Â Â Â Â  ELSE Volunteering
+Â Â Â Â  END;
 
 --1k.Round GPA to 2 Decimal Places
 
@@ -145,12 +147,12 @@ ALTER COLUMN GPAClassification varchar(20);
 UPDATE PortfolioProject.dbo.Student_Performance
 SET GPAClassification = 
 CASE WHEN GPAClassification = 0 THEN 'A'
-     WHEN GPAClassification = 1 THEN 'B'
+Â Â Â Â  WHEN GPAClassification = 1 THEN 'B'
 	 WHEN GPAClassification = 2 THEN 'C'
 	 WHEN GPAClassification = 3 THEN 'D'
 	 WHEN GPAClassification = 4 THEN 'F'
-     ELSE GPAClassification
-     END;
+Â Â Â Â  ELSE GPAClassification
+Â Â Â Â  END;
 
 
 
