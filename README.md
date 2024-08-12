@@ -1,5 +1,4 @@
 # Bettering Myself to Better the World
-Contact: jrgentry20@gmail.com      |      [Linked In](www.linkedin.com/in/gerald-jerry-gentry)       |     Bellingham, WA
 
 ## Skills
 - Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
