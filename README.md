@@ -56,6 +56,7 @@
 
 I demonstrated advanced SQL skills by manipulating, aggregating, and creating complex queries within the dataset. Through statistical analysis, I identified correlations between student demographics, behaviors, and academic performance. By preparing and visualizing the data, I uncovered trends and patterns that laid the groundwork for further exploration. 
 
+![Picture 3](https://github.com/jrgentry20/portfolio/blob/main/Picture3.png)
 
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
