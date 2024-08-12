@@ -1,6 +1,6 @@
 # Jerry Gentry Portfolio
 
-### Technical Skills: Excel, SQL, Tableau, R, Python, PowerPoint/Slides, AI Prompting
+### Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
 ### Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
 ## Education
@@ -77,3 +77,7 @@ I delved into the company's HR data to uncover the underlying factors driving em
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%202.png?raw=true)
 
 [Go to Excel project](https://github.com/jrgentry20/portfolio/blob/main/HR_Retention_Project_Dashboard.xlsx)
+
+**More to Come!**
+
+My journey into the data analytics world has been fun and I'm excited for more!  I am at the beginning of my journey and am ready to learn and continue to learn throughout my career.  I am currently sharpening and explanding my skills in R and Python and will post projects using those soon!  
