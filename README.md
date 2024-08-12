@@ -78,7 +78,7 @@ I delved into the company's HR data to uncover the underlying factors driving em
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%202.png?raw=true)
 
-[Go to Excel project](https://github.com/jrgentry20/portfolio/blob/main/HR_Retention_Project_Dashboard.xlsx)
+[Go to Excel project](https://github.com/jrgentry20/portfolio/blob/main/HR%20Retention%20Project%20Dashboard.xlsx)
 
 **More to Come!**
 
