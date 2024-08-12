@@ -1,8 +1,9 @@
-# Jerry Gentry Portfolio
+# Bettering Myself to Better the World
 Contact: jrgentry20@gmail.com      |      [Linked In](www.linkedin.com/in/gerald-jerry-gentry)       |     Bellingham, WA
 
-### Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
-### Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
+## Skills
+- Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
+- Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
 ## Education
 - M.A. Education |             Pacific Lutheran University – Tacoma, WA       
