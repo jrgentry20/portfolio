@@ -58,14 +58,22 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%203.png?raw=true)
 
+[Go to SQL project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance.sql)
+
+
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
 I developed an interactive Tableau dashboard to illuminate the factors influencing student performance at a high school. By calculating custom metrics and KPIs, I provided in-depth insights into student achievement. To enhance user experience, I incorporated intuitive filters and parameters, allowing for dynamic exploration of the data. To facilitate a comprehensive understanding, I designed linked dashboards, enabling seamless navigation and discovery of hidden patterns within the dataset. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%201.png?raw=true)
 
+[Go to Tableau project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance%20Dashboard.twbx)
+
+
 **HR Retention Dashboard(Excel) – Personal Project**
 
 I delved into the company's HR data to uncover the underlying factors driving employee retention and turnover. Employing advanced Excel functionalities, I meticulously transformed raw data into a digestible format, ready for analysis. To provide actionable insights, I constructed an interactive Excel dashboard that dynamically displays retention trends, employee lifecycle stages, and the correlation between HR metrics and business outcomes. This dashboard empowers users to explore data flexibly by filtering information based on department, salary range, job satisfaction, and other key variables, facilitating data-driven decision-making. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%202.png?raw=true)
+
+[Go to Excel project](https://github.com/jrgentry20/portfolio/blob/main/HR_Retention_Project_Dashboard.xlsx)
