@@ -67,4 +67,4 @@ I developed an interactive Tableau dashboard to illuminate the factors influenci
 
 I delved into the company's HR data to uncover the underlying factors driving employee retention and turnover. Employing advanced Excel functionalities, I meticulously transformed raw data into a digestible format, ready for analysis. To provide actionable insights, I constructed an interactive Excel dashboard that dynamically displays retention trends, employee lifecycle stages, and the correlation between HR metrics and business outcomes. This dashboard empowers users to explore data flexibly by filtering information based on department, salary range, job satisfaction, and other key variables, facilitating data-driven decision-making. 
 
-
+![HR Retention Dashboard](https://github.com/jrgentry20/portfolio/blob/main/Picture%202.png)
