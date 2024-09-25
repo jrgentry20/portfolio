@@ -53,7 +53,7 @@
 
 ## Projects
 
-### SQL Projects
+### <u>SQL Projects</u>
 
 **Analyzing Company Employee Data (MySQL) - Personal Project**
 
