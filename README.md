@@ -1,4 +1,4 @@
-# Bettering Myself to Better the World
+# I'm Going On A Data Adventure!
 
 ## About Me!
 Hi, I'm Jerry! I am a science educator with a background in both classroom and outdoor education currently making a change to data analytics. I love education and so much about it and am excited to bring my passion for that into the data field!
