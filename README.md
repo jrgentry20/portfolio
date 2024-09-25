@@ -73,13 +73,22 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 ### <u>Tableau Projects</u>
 
+
+**Bike Company Customers and Sales Story (Tableau) – Personal Project**
+
+I utilized Tableau to create a compelling data story focused on customer purchasing behavior. I analyzed customer data to identify which age groups contributed the most profit, the products they purchased in large quantities, and the items that generated the highest profit margins. Through interactive visualizations, I provided actionable insights that can inform marketing strategies and product offerings, helping the organization better understand customer preferences and optimize sales performance.
+
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Screenshot%202024-09-25%20135817.png)
+
+[Go to Bike Company Story](https://public.tableau.com/app/profile/jerry.gentry/viz/MostProfitableCustomersandProductsStory/MostProfitableCustomersandProducts)  
+
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
 I developed an interactive Tableau dashboard to illuminate the factors influencing student performance at a high school. By calculating custom metrics and KPIs, I provided in-depth insights into student achievement. To enhance user experience, I incorporated intuitive filters and parameters, allowing for dynamic exploration of the data. To facilitate a comprehensive understanding, I designed linked dashboards, enabling seamless navigation and discovery of hidden patterns within the dataset. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%201.png?raw=true)
 
-[Go to Tableau project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance%20Dashboard.twbx)
+[Go to Student Performance Dashboard](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance%20Dashboard.twbx)
 
 ### <u>Excel Projects</u>
 
