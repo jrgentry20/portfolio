@@ -1,5 +1,16 @@
 # Bettering Myself to Better the World
 
+## About Me!
+Hi, I'm Jerry! I am a science educator with a background in both classroom and outdoor education currently making a change to data analytics. I love education and so much about it and am excited to bring my passion for that into the data field!
+
+Over the past year I have been learning new skills to help me with this change and I am excited to keep learning more! So far, I have focused on Excel, SQL, Python, Tableau, and R. It has been a journey but I have loved it and all the problem solving that comes with learning new skills. 
+
+I have a variety of other work experiences that have helped with this transition as well. In the past 11 years I have also managed a warehouse in a shipping and receiving role, done field work for a wetland research lab, and led canopy tours in the tops of Redwood trees! While my adventure through life hasn't been as linear as I would have guessed when I was younger, I wouldn't trade it and I know it has made me a better, more well rounded person.
+
+When I'm not working I am most likely out on the trails somewhere in the PNW, watching the latest movie, singing a Broadway tune, or dreaming up a trip to somewhere! My wife and I love to do all those together and she is my rock, has the best jokes, and makes amazing bread!
+
+I'm excited for my journey into data analytics and am ready to put in the work wherever I land! More than anything, I'm excited for the connections I will make and the community I will get to be a part of!
+
 ## Skills
 - Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
 - Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
@@ -59,7 +70,7 @@
 
 Employing advanced SQL techniques such as ranking functions, Common Table Expressions (CTEs), and CASE statements, I utilized MySQL to analyze employee data and generate insights for stakeholders.  Key analyses included identifying the longest-serving employee, assessing location discrepancies, ranking employees by seniority, and classifying salaries into Low, Medium, and High categories. Additionally, I analyzed average salaries based on departments and job titles, and compared compensation between Headquarters and Remote employees.
 
-![](https://github.com/jrgentry20/portfolio/blob/main/images/Employee%20Data%20SQL.png)
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Employee%20Data%20SQL.png?raw=true)
 
 [Go to Company Employee Data project](https://github.com/jrgentry20/portfolio/blob/main/Analysis%20of%20Company%20Employee%20Data%20Project.sql)
 
@@ -78,7 +89,7 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 I utilized Tableau to create a compelling data story focused on customer purchasing behavior. I analyzed customer data to identify which age groups contributed the most profit, the products they purchased in large quantities, and the items that generated the highest profit margins. Through interactive visualizations, I provided actionable insights that can inform marketing strategies and product offerings, helping the organization better understand customer preferences and optimize sales performance.
 
-![](https://github.com/jrgentry20/portfolio/blob/main/images/Screenshot%202024-09-25%20135817.png)
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Screenshot%202024-09-25%20135817.png?raw=true)
 
 [Go to Bike Company Story](https://public.tableau.com/app/profile/jerry.gentry/viz/MostProfitableCustomersandProductsStory/MostProfitableCustomersandProducts)  
 
