@@ -12,22 +12,22 @@ When I'm not working I am most likely out on the trails somewhere in the PNW, wa
 I'm excited for my journey into data analytics and am ready to put in the work wherever I land! More than anything, I'm excited for the connections I will make and the community I will get to be a part of!
 
 ## Skills
-- Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
+- Technical Skills: Excel, SQL, Tableau, Python, R, AI Prompting, PowerPoint/Slides
 - Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
 ## Certifications
 ### Through Analyst Builder
 - [Excel for Data Analytics](https://www.analystbuilder.com/achievements/verify/T2ZTDI8HBR?r=X7mSPOMCUUO4sfdEj0RA9L4kR)
 - [MySQL for Data Analytics](https://www.analystbuilder.com/achievements/verify/PEIXJGHWYO?r=naFsFezYPD42LJg08fgJhxkA4)
-- Advanced MySQL for Data Analytics
-- Python Programming for Beginners
-- Pandas for Data Analysis
-- Cloud Computing Essentials with Azure and AWS
-- Tableau for Data Visualization
+- [Advanced MySQL for Data Analytics](https://www.analystbuilder.com/achievements/verify/IAJNU5R9H2?r=ppveS11JFvdHxeMvdnUxnPkTr)
+- [Python Programming for Beginners](https://www.analystbuilder.com/achievements/verify/M0YSQTWCL4?r=LjNOrx9q0DtBxs5hg1j8sumBY)
+- [Pandas for Data Analysis](https://www.analystbuilder.com/achievements/verify/XTCHVG06QJ?r=xzXkoVLKuxfbRXaXgA7ykuP0I)
+- [Cloud Computing Essentials with Azure and AWS](https://www.analystbuilder.com/achievements/verify/ZNCDGI4K6Y?r=RiqrGlmOdN0zm9GxYXRpfyyip)
+- [Tableau for Data Visualization](https://www.analystbuilder.com/achievements/verify/VV29TPJJRV?r=oZ1DA4urz3NetjfQqNDGmH7kO)
   
 ### Through Coursera
-- Google Data Analytics Professional Certificate
-- Google AI Essentials
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/1c8d488b8b2c7ef2d77000c55e9e23f1)
+- [Google AI Essentials](https://coursera.org/share/5fb83812e2b4bb381bde2d7df797da85)
 
 ## Education
 - M.A. Education |             Pacific Lutheran University – Tacoma, WA       
