@@ -15,6 +15,20 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 - Technical Skills: Excel, SQL, Tableau, R, Python, AI Prompting, PowerPoint/Slides
 - Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
+## Certifications
+### Through Analyst Builder
+- [Excel for Data Analytics](https://www.analystbuilder.com/achievements/verify/T2ZTDI8HBR?r=X7mSPOMCUUO4sfdEj0RA9L4kR)
+- [MySQL for Data Analytics](https://www.analystbuilder.com/achievements/verify/PEIXJGHWYO?r=naFsFezYPD42LJg08fgJhxkA4)
+- Advanced MySQL for Data Analytics
+- Python Programming for Beginners
+- Pandas for Data Analysis
+- Cloud Computing Essentials with Azure and AWS
+- Tableau for Data Visualization
+  
+### Through Coursera
+- Google Data Analytics Professional Certificate
+- Google AI Essentials
+
 ## Education
 - M.A. Education |             Pacific Lutheran University – Tacoma, WA       
 - B.S. Environmental Science | Iowa State University – Ames, IA
