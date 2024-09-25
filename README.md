@@ -111,7 +111,7 @@ I utilized Tableau to create a compelling data story focused on customer purchas
 
 I developed an interactive Tableau dashboard to illuminate the factors influencing student performance at a high school. By calculating custom metrics and KPIs, I provided in-depth insights into student achievement. To enhance user experience, I incorporated intuitive filters and parameters, allowing for dynamic exploration of the data. To facilitate a comprehensive understanding, I designed linked dashboards, enabling seamless navigation and discovery of hidden patterns within the dataset. 
 
-![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%201.png?raw=true)
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Performance%20Portfolio.png?raw=true)
 
 [Go to Student Performance Dashboard](https://public.tableau.com/app/profile/jerry.gentry/viz/StudentPerformanceDashboard_17234824321170/StudentPerformanceby)
 
