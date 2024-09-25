@@ -59,6 +59,8 @@
 
 Employing advanced SQL techniques such as ranking functions, Common Table Expressions (CTEs), and CASE statements, I utilized MySQL to analyze employee data and generate insights for stakeholders.  Key analyses included identifying the longest-serving employee, assessing location discrepancies, ranking employees by seniority, and classifying salaries into Low, Medium, and High categories. Additionally, I analyzed average salaries based on departments and job titles, and compared compensation between Headquarters and Remote employees.
 
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Employee%20Data%20SQL.png)
+
 [Go to Company Employee Data project](https://github.com/jrgentry20/portfolio/blob/main/Analysis%20of%20Company%20Employee%20Data%20Project.sql)
 
 **Analyzing Student Performance Data (MySQL) – Personal Project**
