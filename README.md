@@ -64,28 +64,28 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 
 ## Projects
 
-### <u>SQL Projects</u>
+### <u>MySQL Projects</u>
 
-**Analyzing Company Employee Data (MySQL) - Personal Project**
+**Analyzing Company Employee Data - Personal Project**
 
 Employing advanced SQL techniques such as ranking functions, Common Table Expressions (CTEs), and CASE statements, I utilized MySQL to analyze employee data and generate insights for stakeholders.  Key analyses included identifying the longest-serving employee, assessing location discrepancies, ranking employees by seniority, and classifying salaries into Low, Medium, and High categories. Additionally, I analyzed average salaries based on departments and job titles, and compared compensation between Headquarters and Remote employees.
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Employee%20Data%20SQL.png?raw=true)
 
-[Go to Company Employee Data project](https://github.com/jrgentry20/portfolio/blob/main/Analysis%20of%20Company%20Employee%20Data%20Project.sql)
+[Go to Company Employee Data Project](https://github.com/jrgentry20/portfolio/blob/main/Analysis%20of%20Company%20Employee%20Data%20Project.sql)
 
-**Analyzing Student Performance Data (MySQL) – Personal Project**
+**Analyzing Student Performance Data – Personal Project**
 
 I demonstrated advanced SQL skills by manipulating, aggregating, and creating complex queries within the dataset. Through statistical analysis, I identified correlations between student demographics, behaviors, and academic performance. By preparing and visualizing the data, I uncovered trends and patterns that laid the groundwork for further exploration. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%203.png?raw=true)
 
-[Go to SQL project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance.sql)
+[Go to Student Performance Project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance.sql)
 
 ### <u>Tableau Projects</u>
 
 
-**Bike Company Customers and Sales Story (Tableau) – Personal Project**
+**Bike Company Customers and Sales Story – Personal Project**
 
 I utilized Tableau to create a compelling data story focused on customer purchasing behavior. I analyzed customer data to identify which age groups contributed the most profit, the products they purchased in large quantities, and the items that generated the highest profit margins. Through interactive visualizations, I provided actionable insights that can inform marketing strategies and product offerings, helping the organization better understand customer preferences and optimize sales performance.
 
@@ -93,23 +93,23 @@ I utilized Tableau to create a compelling data story focused on customer purchas
 
 [Go to Bike Company Story](https://public.tableau.com/app/profile/jerry.gentry/viz/MostProfitableCustomersandProductsStory/MostProfitableCustomersandProducts)  
 
-**Student Performance Factors Dashboard(Tableau) – Personal Project**
+**Student Performance Factors Dashboard – Personal Project**
 
 I developed an interactive Tableau dashboard to illuminate the factors influencing student performance at a high school. By calculating custom metrics and KPIs, I provided in-depth insights into student achievement. To enhance user experience, I incorporated intuitive filters and parameters, allowing for dynamic exploration of the data. To facilitate a comprehensive understanding, I designed linked dashboards, enabling seamless navigation and discovery of hidden patterns within the dataset. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%201.png?raw=true)
 
-[Go to Student Performance Dashboard](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance%20Dashboard.twbx)
+[Go to Student Performance Dashboard](https://public.tableau.com/app/profile/jerry.gentry/viz/StudentPerformanceDashboard_17234824321170/StudentPerformanceby)
 
 ### <u>Excel Projects</u>
 
-**HR Retention Dashboard(Excel) – Personal Project**
+**HR Retention Dashboard – Personal Project**
 
 I delved into the company's HR data to uncover the underlying factors driving employee retention and turnover. Employing advanced Excel functionalities, I meticulously transformed raw data into a digestible format, ready for analysis. To provide actionable insights, I constructed an interactive Excel dashboard that dynamically displays retention trends, employee lifecycle stages, and the correlation between HR metrics and business outcomes. This dashboard empowers users to explore data flexibly by filtering information based on department, salary range, job satisfaction, and other key variables, facilitating data-driven decision-making. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%202.png?raw=true)
 
-[Go to Excel project](https://github.com/jrgentry20/portfolio/blob/main/HR%20Retention%20Project%20Dashboard.xlsx)
+[Go to HR Retention Project](https://github.com/jrgentry20/portfolio/blob/main/HR%20Retention%20Project%20Dashboard.xlsx)
 
 **<u>More to Come!</u>**
 
