@@ -53,7 +53,15 @@
 
 ## Projects
 
-**Analyzing Student Performance Data(SQL) – Personal Project**
+### SQL Projects
+
+**Analyzing Company Employee Data (MySQL) - Personal Project**
+
+Employing advanced SQL techniques such as ranking functions, Common Table Expressions (CTEs), and CASE statements, I utilized MySQL to analyze employee data and generate insights for stakeholders.  Key analyses included identifying the longest-serving employee, assessing location discrepancies, ranking employees by seniority, and classifying salaries into Low, Medium, and High categories. Additionally, I analyzed average salaries based on departments and job titles, and compared compensation between Headquarters and Remote employees.
+
+[Go to Company Employee Data project](https://github.com/jrgentry20/portfolio/blob/main/Analysis%20of%20Company%20Employee%20Data%20Project.sql)
+
+**Analyzing Student Performance Data (MySQL) – Personal Project**
 
 I demonstrated advanced SQL skills by manipulating, aggregating, and creating complex queries within the dataset. Through statistical analysis, I identified correlations between student demographics, behaviors, and academic performance. By preparing and visualizing the data, I uncovered trends and patterns that laid the groundwork for further exploration. 
 
@@ -61,6 +69,7 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 [Go to SQL project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance.sql)
 
+### Tableau Projects
 
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
@@ -70,6 +79,7 @@ I developed an interactive Tableau dashboard to illuminate the factors influenci
 
 [Go to Tableau project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance%20Dashboard.twbx)
 
+### Excel Projects
 
 **HR Retention Dashboard(Excel) – Personal Project**
 
