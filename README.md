@@ -69,7 +69,7 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 [Go to SQL project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance.sql)
 
-### Tableau Projects
+### <u>Tableau Projects</u>
 
 **Student Performance Factors Dashboard(Tableau) – Personal Project**
 
@@ -79,7 +79,7 @@ I developed an interactive Tableau dashboard to illuminate the factors influenci
 
 [Go to Tableau project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance%20Dashboard.twbx)
 
-### Excel Projects
+### <u>Excel Projects</u>
 
 **HR Retention Dashboard(Excel) – Personal Project**
 
@@ -89,6 +89,6 @@ I delved into the company's HR data to uncover the underlying factors driving em
 
 [Go to Excel project](https://github.com/jrgentry20/portfolio/blob/main/HR%20Retention%20Project%20Dashboard.xlsx)
 
-**More to Come!**
+**<u>More to Come!</u>**
 
 My journey into the data analytics world has been fun and I'm excited for more!  I am at the beginning of my journey and am ready to learn and continue to learn throughout my career.  I am currently sharpening and explanding my skills in R and Python and will post projects using those soon!  
