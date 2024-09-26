@@ -117,9 +117,17 @@ I developed an interactive Tableau dashboard to illuminate the factors influenci
 
 ### <u>Excel Projects</u>
 
+**Sales Overview Dashboard – Personal Project**
+
+I developed a dynamic and interactive Excel dashboard utilizing sales data to analyze revenue and expenses across different regions and product categories. The dashboard featured slicers and pivot tables for efficient data filtering and analysis, customized color formatting for enhanced visual appeal, and linked values to shapes for improved data representation.
+
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Sales%20Overview%20Dashboard.png?raw=true)
+
+[Go to Sales Overview Project](https://github.com/jrgentry20/portfolio/blob/main/Sales%20Dashboard%20Challenge.xlsx)
+
 **HR Retention Dashboard – Personal Project**
 
-I delved into the company's HR data to uncover the underlying factors driving employee retention and turnover. Employing advanced Excel functionalities, I meticulously transformed raw data into a digestible format, ready for analysis. To provide actionable insights, I constructed an interactive Excel dashboard that dynamically displays retention trends, employee lifecycle stages, and the correlation between HR metrics and business outcomes. This dashboard empowers users to explore data flexibly by filtering information based on department, salary range, job satisfaction, and other key variables, facilitating data-driven decision-making. 
+I delved into the company's HR data to uncover the underlying factors driving employee retention and turnover. Employing advanced Excel functionalities, I meticulously transformed raw data into a digestible format, ready for analysis. To provide actionable insights, I constructed an interactive Excel dashboard that dynamically displays retention trends, employee lifecycle stages, and the correlation between HR metrics and business outcomes.  Users will be empowered to explore data flexibly by filtering information based on department, salary range, job satisfaction, and other key variables, facilitating data-driven decision-making. 
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%202.png?raw=true)
 
