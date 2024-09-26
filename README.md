@@ -121,9 +121,9 @@ I developed an interactive Tableau dashboard to illuminate the factors influenci
 
 I developed a dynamic and interactive Excel dashboard utilizing sales data to analyze revenue and expenses across different regions and product categories. The dashboard featured slicers and pivot tables for efficient data filtering and analysis, customized color formatting for enhanced visual appeal, and linked values to shapes for improved data representation.
 
-![](https://github.com/jrgentry20/portfolio/blob/main/images/Sales%20Overview%20Dashboard.png?raw=true)
+![](?raw=true)
 
-[Go to Sales Overview Project](https://github.com/jrgentry20/portfolio/blob/main/Sales%20Dashboard%20Challenge.xlsx)
+[Go to Sales Overview Project]()
 
 **HR Retention Dashboard – Personal Project**
 
