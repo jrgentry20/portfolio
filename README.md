@@ -12,7 +12,7 @@ When I'm not working I am most likely out on the trails somewhere in the PNW, wa
 I'm excited for my journey into data analytics and am ready to put in the work wherever I land! More than anything, I'm excited for the connections I will make and the community I will get to be a part of!
 
 ## Skills
-- Technical Skills: Excel, SQL, Tableau, Python, R, AI Prompting, PowerPoint/Slides
+- Technical Skills: AWS  -  Azure  -  ChatGPT  -  Google Suite: Docs, Drive, Forms, Sheets  -  Google Gemini  -  Kahoot  -  MacOS  -  Microsoft Office: Excel, OneNote, Outlook, PowerPoint, Word  -  Peardeck  -  Python  -  Quizizz  -  R  -  SQL  -  Tableau  -  Windows
 - Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
 
 ## Certifications
@@ -133,6 +133,12 @@ I delved into the company's HR data to uncover the underlying factors driving em
 
 [Go to HR Retention Project](https://github.com/jrgentry20/portfolio/blob/main/HR%20Retention%20Project%20Dashboard.xlsx)
 
-**<u>More to Come!</u>**
+**<u>Python Projects</u>**
 
-My journey into the data analytics world has been fun and I'm excited for more!  I am at the beginning of my journey and am ready to learn and continue to learn throughout my career.  I am currently sharpening and explanding my skills in R and Python and will post projects using those soon!  
+ **Metropolitan Transportation Authority Study – Personal Project**
+
+ I conducted a high level exploration of complaints about employees working for the Metropolitan Transportation Authority to better understand what the MTA can focus on to decrease complaints.  Analysis involved using pandas, seaborn, and matplotlib.  Skills such as working with Null values, performing aggregations, creating visualizations, and filtering were used to conduct this analysis.  A summary, recommendations, and further questions are included as well.
+
+ ![](https://github.com/jrgentry20/portfolio/blob/main/images/MTA.png?raw=true)
+
+ [Go to Metropolitan Transportation Authority Project](https://github.com/jrgentry20/portfolio/blob/main/Metropolitan%20Transportation%20Authority.ipynb)
