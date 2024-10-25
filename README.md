@@ -59,31 +59,41 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 - B.S. Environmental Science | Iowa State University – Ames, IA
 
 ## Work Experience
-**Substitute Teacher at Bellingham Public Schools – Bellingham, WA	(September 2022 - Present)**
+**Educator at Bellingham Public Schools – Bellingham, WA	(September 2022 - Present)**
 
-- Managed diverse classroom settings daily, demonstrating ability to quickly analyze and respond to changing variables
+- Charted and sustained comprehensive student data, attendance, and grades through advanced tracking systems concurrently with communicating progress, behavior, and learner outcomes to a network of 500+ stakeholders.
 
-- Utilized student data to inform instructional decisions, showcasing data-based problem-solving skills
+- Conducted a review of existing curriculum, analyzed data to identify areas of improvement, and provided targeted feedback and guidance to 25+ educators to execute a 10% increase in proficiency for 100+ at-risk students.
 
-- Prioritized tasks and managed time effectively in fast-paced environment
+- Created 100+ engaging, data-driven, and accessible micro lessons to better support learners’ individual goals, optimize learning time, made content more digestible, and diversify approaches for 100+ learners.
 
-- Built strong relationships with diverse community stakeholders, conveying information clearly
+- Collaborated with educators to analyze test scores, student data, and behavior to leverage insights to create teaching plans for classes of 25+ students and achieved a 15% improvement in student performance.
+  
+- Streamlined communication with 300+ stakeholders, sought and implemented feedback, maintained regular contact, engaged in active listening, and managed expectations over email, phone, and LMS to boost team productivity.
 
 **Shipping and Receiving Specialist at REI – Tukwila, WA 	(June 2019 – June 2021)**
 
-- Accurately processed and verified incoming and outgoing shipments, ensuring data integrity and adherence to standard operating procedures
+- Spearheaded step-by-step client onboarding process by establishing communication channels, troubleshooting technical support, gathering client goals and key milestones, analyzing data, and delivering services for 500+ clients yearly.
 
-- Optimized shipping and receiving processes to maximize productivity and meet deadlines
+- Managed exceptional communication with brand continuity via email, phone calls, and in-person interactions with 25+ clients daily with 98% of clients giving a positive review of the support.
 
-- Identified and resolved discrepancies in inventory data, demonstrating problem-solving skills
+- Navigated product and service showings to hook new lead and sales deal progressions, boosted customer satisfaction with presentations with potential customers, executed compelling product demos, and delivered customized quotes to 500+ clients.
+
+- Conducted 3+ workshops to train new hires and align them with strategic division goals, realigned staffing and reallocated resources to critical initiatives, developed detailed project timelines with clear milestones, and implemented performance tracking systems.
+
+- Developed operational procedures, tracked real-time performance metrics, conducted monthly audits to ensure efficiency, identified data-driven bottlenecks, and implemented corrective measures to optimize workload distribution for 50+ workers.
 
 **Program Assistant at Mission Springs Outdoor Education – Scotts Valley, CA 	(Aug 2016 – May 2019)**
 
-- Managed multiple program components, including logistics, risk assessment, participants, and equipment inventory
+-  Directed the use of protocols to capture educator practices, identified growth opportunities aligned with instructional benchmarks, ensured a non-intrusive observation approach to foster authentic teaching experiences, and delivered feedback to 15+ educators.
 
-- Built positive relationships with diverse groups, including students, staff, and community partners
+- Conducted needs assessments by engaging with stakeholders, created coaching strategies in line with organizational targets, applied active listening to foster trust, and encouraged self-reflection to improve educator satisfaction scores by 10%.
 
-- Successfully addressed challenges in dynamic outdoor environments, demonstrating adaptability and resourcefulness
+- Leveraged systems to gather, chart and identify trends in student performance, set measurable goals for teachers and students, and developed data-driven instructional strategies to address learning gaps for 25+ faculty.
+
+- Mediated conflicts between diverse staff and learner groups, identified issues, articulated options and solutions, aided in documenting resolutions, and followed up with 5+ parties to ensure better outcomes and an optimized resolution system.
+
+- Established a risk management plan for learners, ensured safety, and applied the same principles to the content creation, analysis, behavior management, and mentorship to raise overall positive interactions for 1,000+ other stakeholders.
 
 **Canopy Tour Guide at Mount Hermon Adventures - Felton, CA (May 2017 - August 2018)**
 
