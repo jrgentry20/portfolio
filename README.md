@@ -12,8 +12,33 @@ When I'm not working I am most likely out on the trails somewhere in the PNW, wa
 I'm excited for my journey into data analytics and am ready to put in the work wherever I land! More than anything, I'm excited for the connections I will make and the community I will get to be a part of!
 
 ## Skills
-- Technical Skills: AWS  -  Azure  -  ChatGPT  -  Google Suite: Docs, Drive, Forms, Sheets  -  Google Gemini  -  Kahoot  -  MacOS  -  Microsoft Office: Excel, OneNote, Outlook, PowerPoint, Word  -  Peardeck  -  Python  -  Quizizz  -  R  -  SQL  -  Tableau  -  Windows
-- Soft Skills: Interpersonal Communication, Presentation, Detail-Oriented
+Technical Skills:
+- Microsoft Office: Excel, OneNote, Outlook, PowerPoint, Word (advanced)
+- Google Suite: Docs, Drive, Forms, Sheets (advanced)
+- Windows and MacOS (advanced)
+- ChatGPT and Google Gemini (advanced-personal and educational use)
+- SQL(MySQL, MSSQL, PostgreSQL) (intermediate)
+- Python (Pandas, NumPy, Seaborn, Matplotlib) (intermediate)
+- Tableau (intermediate)
+- AWS and Azure (basic) 
+- R (basic)
+  
+Soft Skills:
+- Calm Under Tense Situations
+- Communication & Transparency
+- Differentiated Instruction
+- Dynamic Listener
+- Embraces Workplace Change
+- Multi-Cultural Sensitivity
+- Multitasking & Organization
+- Neat and Professional
+- Objective and Goal Thinker
+- Problem Resolution
+- Public Speaking
+- Self-Motivator
+- Team Collaboration & Management
+- Technology Integrator
+- Time & Task Management
 
 ## Certifications
 ### Through Analyst Builder
