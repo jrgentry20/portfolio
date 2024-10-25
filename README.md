@@ -60,6 +60,7 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 - **Relevant coursework:** Sociocultural Foundations of Education, Advanced Cognition, Development, and Learning, Application of Technology Tools for Teachers, Schools and Society, Internship in Teaching, Current Issues in Exceptionality, The Inclusive Classroom
   
 **Master’s Project:** 
+
 *Education: A Journey in Growth for Students and Teachers Alike*
 - Provide evidentiary support of meeting the programs Guiding Principles of exhibiting equity-focused and anti-racist pedagogy, showing flexibility/adaptability, self-assessment(strengths and weaknesses), and instructional quality growth over time.
 - Present qualitative and quantitative data in an engaging and creative way to showcase technological skills to peers and faculty for a length of 30 minutes.
