@@ -55,13 +55,18 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 - [Google AI Essentials](https://coursera.org/share/5fb83812e2b4bb381bde2d7df797da85)
 
 ## Education
-- Pacific Lutheran University, School of Education, Tacoma, WA
--  Master of Arts in Education, June 2022. GPA: 4.0/4.0
--  Relevant coursework: Sociocultural Foundations of Education, Advanced Cognition, Development, and Learning, Application of Technology Tools for Teachers, Schools and Society, Internship in Teaching, Current Issues in Exceptionality, The Inclusive Classroom
+### Pacific Lutheran University, School of Education, Tacoma, WA
+- Master of Arts in Education, June 2022. GPA: 4.0/4.0
+- Relevant coursework: Sociocultural Foundations of Education, Advanced Cognition, Development, and Learning, Application of Technology Tools for Teachers, Schools and Society, Internship in Teaching, Current Issues in Exceptionality, The Inclusive Classroom
+**Master’s Project:** 
+*Education: A Journey in Growth for Students and Teachers Alike*
+- Provide evidentiary support of meeting the programs Guiding Principles of exhibiting equity-focused and anti-racist pedagogy, showing flexibility/adaptability, self-assessment(strengths and weaknesses), and instructional quality growth over time.
+- Present qualitative and quantitative data in an engaging and creative way to showcase technological skills to peers and faculty for a length of 30 minutes.
+
   
-- Iowa State University, College of Liberal Arts and Sciences, Ames, IA
--  Bachelor of Science in Environmental Science with a Minor in Sustainability, May 2016. Major GPA: 3.7/4.0
--  Relevant coursework: Introduction to Statistics, Calculus, Principles of Microeconomics, Introduction to Computer Engineering and Problem Solving, Biological Processes in the Environment, Natural Resource Photogrammetry and Geographic Information Systems, Analysis of Environmental Systems, Environmental and Resource Economics, Global Sustainability, GIS for Ecology and Environmental Science
+### Iowa State University, College of Liberal Arts and Sciences, Ames, IA
+- Bachelor of Science in Environmental Science with a Minor in Sustainability, May 2016. Major GPA: 3.7/4.0
+- Relevant coursework: Introduction to Statistics, Calculus, Principles of Microeconomics, Introduction to Computer Engineering and Problem Solving, Biological Processes in the Environment, Natural Resource Photogrammetry and Geographic Information Systems, Analysis of Environmental Systems, Environmental and Resource Economics, Global Sustainability, GIS for Ecology and Environmental Science
 
 ## Work Experience
 **Educator at Bellingham Public Schools – Bellingham, WA	(September 2022 - Present)**
