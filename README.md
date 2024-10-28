@@ -191,4 +191,4 @@ I delved into the company's HR data to uncover the underlying factors driving em
 
 **<u>More to Come!</u>**
 
-I am excited to keep learning and growing in my technical skills, my overall analysis process and presentation of findings.  While searching for a new work family I am currently sharpening and building my skills in using SQL, Python, R, Excel, and Tableau.  I am excited to learn other skills as well and always excited for new opportunities to better myself so I can better the world.
+I am excited to keep learning and growing in my technical skills, my overall analysis process, and presentation of findings.  While searching for a new work family I am currently sharpening and building my skills in using SQL, Python, R, Excel, and Tableau.  I am excited to learn other skills as well and always excited for new opportunities to better myself so I can better the world.
