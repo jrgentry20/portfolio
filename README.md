@@ -108,19 +108,21 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 
 **Canopy Tour Guide at Mount Hermon Adventures - Felton, CA (May 2017 - August 2018)**
 
-- Gathered and analyzed qualitative data on group dynamics and environmental factors to enhance tour experiences
+- Conducted qualitative assessments of group dynamics and environmental conditions, identified areas for enhanced tour engagement, and implemented tailored strategies, leading to a 15% increase in overall guest satisfaction.
 
-- Provided exceptional customer service by effectively communicating complex information in a clear and engaging manner
+- Delivered exceptional customer service by simplifying technical information and guiding participants through activities, fostering a memorable experience for 500+ guests while ensuring clarity and accessibility.
 
-- Ensured adherence to safety protocols and operational standards through meticulous inspection and data management
+- Executed thorough safety inspections and maintained real-time data logs to uphold compliance with safety protocols, ensuring zero incidents and contributing to a safe environment for 1,000+ participants.
 
 **Laboratory Technician at Iowa State University Wetland Research Laboratory- Ames, IA (May 2015-May 2016)**
 
-- Conducted spectrophotometric analysis on water samples to determine nutrient levels. Processed and prepared samples for analysis, ensuring data accuracy and integrity
+- Conducted spectrophotometric analyses on nutrient levels in over 300 field water samples, ensuring accurate data collection and contributing to high-quality research outputs.
 
-- Maintained organized laboratory records and assisted with data organization for research projects
+- Collaborated with the research team in preparing materials, collecting samples, and executing tests, enhancing the quality and accuracy of fieldwork and data organization for three ongoing research projects.
 
-- Contributed to research projects through sample collection, testing, and data preparation
+- Maintained sterile conditions by meticulously cleaning and preparing glassware, supporting data integrity for ongoing research studies.
+
+- Processed and organized field samples efficiently for nutrient analysis, optimizing lab workflow.
 
 ## Projects
 
