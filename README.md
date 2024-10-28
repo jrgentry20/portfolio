@@ -84,7 +84,7 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 
 **Shipping and Receiving Specialist at REI – Tukwila, WA 	(June 2019 – June 2021)**
 
-- Spearheaded step-by-step client onboarding process by establishing communication channels, troubleshooting technical support, gathering client goals and key milestones, analyzing data, and delivering services for 500+ clients yearly.
+- Spearheaded step-by-step member onboarding process by establishing communication channels, troubleshooting technical support, gathering member information, analyzing data, and delivering services for 500+ members yearly.
 
 - Managed exceptional communication with brand continuity via email, phone calls, and in-person interactions with 25+ clients daily with 98% of clients giving a positive review of the support.
 
@@ -188,3 +188,7 @@ I delved into the company's HR data to uncover the underlying factors driving em
  ![](https://github.com/jrgentry20/portfolio/blob/main/images/MTA.png?raw=true)
 
  [Go to Metropolitan Transportation Authority Project](https://github.com/jrgentry20/portfolio/blob/main/Metropolitan%20Transportation%20Authority.ipynb)
+
+**<u>More to Come!</u>**
+
+I am excited to keep learning and growing in my technical skills, my overall analysis process and presentation of findings.  While searching for a new work family I am currently sharpening and building my skills in using SQL, Python, R, Excel, and Tableau.  I am excited to learn other skills as well and always excited for new opportunities to better myself so I can better the world.
