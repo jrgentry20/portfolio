@@ -54,6 +54,10 @@ I'm excited for my journey into data analytics and am ready to put in the work w
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/1c8d488b8b2c7ef2d77000c55e9e23f1)
 - [Google AI Essentials](https://coursera.org/share/5fb83812e2b4bb381bde2d7df797da85)
 
+### Through Skillshop
+- [Google Analytics](https://skillshop.credential.net/d3e0a30a-c1f9-45b0-8732-d8f12771615e)
+- [Google Ads Search](https://skillshop.credential.net/5c563313-93e0-409f-8c49-b9acb0687e6a)
+
 ## Education
 ### Pacific Lutheran University, School of Education, Tacoma, WA
 **Master of Arts in Education**, June 2022. GPA: 4.0/4.0   
