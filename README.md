@@ -1,15 +1,22 @@
-# I'm Going On A Data Adventure!
+# Data Analyst
+Lead With Empathy, Enhance Engagement, Empower Others
 
 ## About Me!
-Hi, I'm Jerry! I am a science educator with a background in both classroom and outdoor education currently making a change to data analytics. I love education and so much about it and am excited to bring my passion for that into the data field!
+Hi, I'm Jerry! I'm a data analyst with a background in science education, bringing a unique ability to combine analytical thinking with clear, accessible, and engaging communication. My experience in education has honed my skills in breaking down complex concepts and delivering insights in ways that resonate with diverse audiences.  As someone who has successfully helped middle schoolers both learn and have a great time, I'm ready for any challenge!
 
-Over the past year I have been learning new skills to help me with this change and I am excited to keep learning more! So far, I have focused on Excel, SQL, Python, Tableau, and R. It has been a journey but I have loved it and all the problem solving that comes with learning new skills. 
+As a self-starter, I’m constantly learning and expanding my technical skills which include Excel, SQL, Python, Tableau, and R. I thrive on uncovering patterns, creating impactful visualizations, and finding outside-the-box solutions to challenges. My detail-oriented and creative mindset allows me to approach problems with both precision and innovation, delivering results that drive meaningful decisions.
 
-I have a variety of other work experiences that have helped with this transition as well. In the past 11 years I have also managed a warehouse in a shipping and receiving role, done field work for a wetland research lab, and led canopy tours in the tops of Redwood trees! While my adventure through life hasn't been as linear as I would have guessed when I was younger, I wouldn't trade it and I know it has made me a better, more well rounded person.
+My career has been shaped by a variety of roles that have honed my data analysis skills:
 
-When I'm not working I am most likely out on the trails somewhere in the PNW, watching the latest movie, singing a Broadway tune, or dreaming up a trip to somewhere! My wife and I love to do all those together and she is my rock, has the best jokes, and makes amazing bread!
+    ⬧ Shipping & Receiving/Sales Specialist: In this role, I developed a strong understanding of data organization and analysis by managing inventory, tracking performance metrics, and optimizing workflows. My ability to analyze data and translate it into actionable strategies contributed to improved client satisfaction and streamlined operations.
+    ⬧ Laboratory/Field Technician: I conducted detailed data analysis of environmental samples, working closely with a team to ensure the accuracy and integrity of research data. This role sharpened my skills in data collection, organization, and analysis, while teaching me the importance of maintaining data integrity and optimizing processes for efficiency.
+    ⬧ Lead Guide: I used data-driven insights to improve customer engagement and satisfaction by assessing group dynamics and environmental conditions. Additionally, I ensured safety protocols were followed by maintaining data logs, highlighting the importance of attention to detail and real-time data management.
 
-I'm excited for my journey into data analytics and am ready to put in the work wherever I land! More than anything, I'm excited for the connections I will make and the community I will get to be a part of!
+These experiences have equipped me with exceptional communication, collaboration, and problem-solving abilities, which I’m eager to bring to a company where I can grow and contribute to a shared vision.
+
+When I’m not working, you can find me exploring trails in the PNW, watching movies, singing Broadway tunes, or dreaming up my next adventure with my wife, who makes every day brighter (and tastier with her amazing bread!).
+
+I’m excited to bring my analytical mindset, creativity, and dedication to a role where I can make an impact, grow professionally, and build lasting connections in the data analytics field.
 
 ## Skills
 ### Technical Skills:
