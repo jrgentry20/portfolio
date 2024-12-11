@@ -1,5 +1,4 @@
 # Data Analyst
-Lead With Empathy, Enhance Engagement, Empower Others
 
 ## About Me!
 Hi, I'm Jerry! I'm a data analyst with a background in science education, bringing a unique ability to combine analytical thinking with clear, accessible, and engaging communication. My experience in education has honed my skills in breaking down complex concepts and delivering insights in ways that resonate with diverse audiences.  As someone who has successfully helped middle schoolers both learn and have a great time, I'm ready for any challenge!
@@ -8,9 +7,9 @@ As a self-starter, I’m constantly learning and expanding my technical skills w
 
 My career has been shaped by a variety of roles that have honed my data analysis skills:
 
-    ⬧ Shipping & Receiving/Sales Specialist: In this role, I developed a strong understanding of data organization and analysis by managing inventory, tracking performance metrics, and optimizing workflows. My ability to analyze data and translate it into actionable strategies contributed to improved client satisfaction and streamlined operations.
-    ⬧ Laboratory/Field Technician: I conducted detailed data analysis of environmental samples, working closely with a team to ensure the accuracy and integrity of research data. This role sharpened my skills in data collection, organization, and analysis, while teaching me the importance of maintaining data integrity and optimizing processes for efficiency.
-    ⬧ Lead Guide: I used data-driven insights to improve customer engagement and satisfaction by assessing group dynamics and environmental conditions. Additionally, I ensured safety protocols were followed by maintaining data logs, highlighting the importance of attention to detail and real-time data management.
+- Shipping & Receiving/Sales Specialist: In this role, I developed a strong understanding of data organization and analysis by managing inventory, tracking performance metrics, and optimizing workflows. My ability to analyze data and translate it into actionable strategies contributed to improved client satisfaction and streamlined operations.
+- Laboratory/Field Technician: I conducted detailed data analysis of environmental samples, working closely with a team to ensure the accuracy and integrity of research data. This role sharpened my skills in data collection, organization, and analysis, while teaching me the importance of maintaining data integrity and optimizing processes for efficiency.
+- Lead Guide: I used data-driven insights to improve customer engagement and satisfaction by assessing group dynamics and environmental conditions. Additionally, I ensured safety protocols were followed by maintaining data logs, highlighting the importance of attention to detail and real-time data management.
 
 These experiences have equipped me with exceptional communication, collaboration, and problem-solving abilities, which I’m eager to bring to a company where I can grow and contribute to a shared vision.
 
@@ -56,6 +55,9 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 - [Pandas for Data Analysis](https://www.analystbuilder.com/achievements/verify/XTCHVG06QJ?r=xzXkoVLKuxfbRXaXgA7ykuP0I)
 - [Cloud Computing Essentials with Azure and AWS](https://www.analystbuilder.com/achievements/verify/ZNCDGI4K6Y?r=RiqrGlmOdN0zm9GxYXRpfyyip)
 - [Tableau for Data Visualization](https://www.analystbuilder.com/achievements/verify/VV29TPJJRV?r=oZ1DA4urz3NetjfQqNDGmH7kO)
+
+### Through Maven Analytics
+- [Statistics for Data Analysis](https://certificates.mavenanalytics.io/c953c52a-f79f-42db-bb97-27556e6c8af4#acc.WF47Tvi6)
   
 ### Through Coursera
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/1c8d488b8b2c7ef2d77000c55e9e23f1)
