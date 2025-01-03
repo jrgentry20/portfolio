@@ -58,6 +58,7 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 
 ### Through Maven Analytics
 - [Statistics for Data Analysis](https://certificates.mavenanalytics.io/c953c52a-f79f-42db-bb97-27556e6c8af4#acc.WF47Tvi6)
+- [Data Science and Machine Learning Foundations](https://certificates.mavenanalytics.io/4cfbbd98-433e-47a4-a018-c4aa77fa25c1#acc.RTtJCo10) 
   
 ### Through Coursera
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/1c8d488b8b2c7ef2d77000c55e9e23f1)
