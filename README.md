@@ -25,7 +25,7 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 - ChatGPT and Google Gemini (advanced-personal and educational use)
 - SQL(MySQL, MSSQL, PostgreSQL) (intermediate)
 - Python (Pandas, NumPy, Seaborn, Matplotlib) (intermediate)
-- Tableau (intermediate)
+- Tableau and Power BI (intermediate)
 - AWS and Azure (basic) 
 - R (basic)
   
@@ -58,7 +58,8 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 
 ### Through Maven Analytics
 - [Statistics for Data Analysis](https://certificates.mavenanalytics.io/c953c52a-f79f-42db-bb97-27556e6c8af4#acc.WF47Tvi6)
-- [Data Science and Machine Learning Foundations](https://certificates.mavenanalytics.io/4cfbbd98-433e-47a4-a018-c4aa77fa25c1#acc.RTtJCo10) 
+- [Data Science and Machine Learning Foundations](https://certificates.mavenanalytics.io/4cfbbd98-433e-47a4-a018-c4aa77fa25c1#acc.RTtJCo10)
+- [Power BI Desktop](https://certificates.mavenanalytics.io/938f6424-7e0d-4d44-a89b-883dcc6d1327#acc.v0rNP2R9)
   
 ### Through Coursera
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/1c8d488b8b2c7ef2d77000c55e9e23f1)
@@ -68,6 +69,9 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 - [Google Analytics](https://skillshop.credential.net/d3e0a30a-c1f9-45b0-8732-d8f12771615e)
 - [Google Ads Search](https://skillshop.credential.net/5c563313-93e0-409f-8c49-b9acb0687e6a)
 
+### Education Certificate
+- [State of Washington Education Credential](https://github.com/jrgentry20/portfolio/blob/main/images/Education%20Certificate.pdf)
+  
 ## Education
 ### Pacific Lutheran University, School of Education, Tacoma, WA
 **Master of Arts in Education**, June 2022. GPA: 4.0/4.0   
@@ -157,6 +161,16 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Picture%203.png?raw=true)
 
 [Go to Student Performance Project](https://github.com/jrgentry20/portfolio/blob/main/Student%20Performance.sql)
+
+### <u>Power BI Projects</u>
+
+**Spotify Wrapped Report - Personal Project/Maven Analytics Music Challenge Submission**
+
+Developed a comprehensive Power BI solution by utilizing Power Query for data transformation, optimizing data models, and applying DAX functions to create dynamic measures and calculated columns, ensuring efficient performance and accurate analysis. Designed interactive dashboards with advanced filtering techniques, user roles, and drill through filters, leveraging key visuals and optimization strategies to enhance usability and deliver actionable insights for stakeholders.
+
+![](https://github.com/jrgentry20/portfolio/blob/main/images/Listening%20Habits.png?raw=true)
+
+[Go to Spotify Wrapped Report](https://mavenanalytics.io/project/26222)
 
 ### <u>Tableau Projects</u>
 
