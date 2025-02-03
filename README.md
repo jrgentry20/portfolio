@@ -166,7 +166,7 @@ I demonstrated advanced SQL skills by manipulating, aggregating, and creating co
 
 **Spotify Wrapped Report - Personal Project/Maven Analytics Music Challenge Submission**
 
-Developed a comprehensive Power BI solution by utilizing Power Query for data transformation, optimizing data models, and applying DAX functions to create dynamic measures and calculated columns, ensuring efficient performance and accurate analysis. Designed interactive dashboards with advanced filtering techniques, user roles, and drill through filters, leveraging key visuals and optimization strategies to enhance usability and deliver actionable insights for stakeholders.
+Developed an interactive Power BI report using Power Query and DAX, transforming multi-user Spotify data to analyze listening habits, song and artist preferences, and podcast trends. Enhanced user experience through dynamic filtering, custom visuals, and intuitive UI/UX design, enabling seamless navigation, personalized insights, and side-by-side comparisons.
 
 ![](https://github.com/jrgentry20/portfolio/blob/main/images/Listening%20Habits.png?raw=true)
 
