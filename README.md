@@ -3,7 +3,7 @@
 ## About Me!
 Hi, I'm Jerry! I'm a data analyst with a background in science education, bringing a unique ability to combine analytical thinking with clear, accessible, and engaging communication. My experience in education has honed my skills in breaking down complex concepts and delivering insights in ways that resonate with diverse audiences.  As someone who has successfully helped middle schoolers both learn and have a great time, I'm ready for any challenge!
 
-As a self-starter, I’m constantly learning and expanding my technical skills which include Excel, SQL, Python, Tableau, and R. I thrive on uncovering patterns, creating impactful visualizations, and finding outside-the-box solutions to challenges. My detail-oriented and creative mindset allows me to approach problems with both precision and innovation, delivering results that drive meaningful decisions.
+As a self-starter, I’m constantly learning and expanding my technical skills which include Excel, SQL, Python, Tableau, Power BI, and R. I thrive on uncovering patterns, creating impactful visualizations, and finding outside-the-box solutions to challenges. My detail-oriented and creative mindset allows me to approach problems with both precision and innovation, delivering results that drive meaningful decisions.
 
 My career has been shaped by a variety of roles that have honed my data analysis skills:
 
