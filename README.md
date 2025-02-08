@@ -26,6 +26,7 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 - SQL(MySQL, MSSQL, PostgreSQL) (intermediate)
 - Python (Pandas, NumPy, Seaborn, Matplotlib) (intermediate)
 - Tableau and Power BI (intermediate)
+- Power Query, Power Pivot, DAX (intermediate)
 - AWS and Azure (basic) 
 - R (basic)
   
@@ -60,6 +61,7 @@ I’m excited to bring my analytical mindset, creativity, and dedication to a ro
 - [Statistics for Data Analysis](https://certificates.mavenanalytics.io/c953c52a-f79f-42db-bb97-27556e6c8af4#acc.WF47Tvi6)
 - [Data Science and Machine Learning Foundations](https://certificates.mavenanalytics.io/4cfbbd98-433e-47a4-a018-c4aa77fa25c1#acc.RTtJCo10)
 - [Power BI Desktop](https://certificates.mavenanalytics.io/938f6424-7e0d-4d44-a89b-883dcc6d1327#acc.v0rNP2R9)
+- [Power Query, Power Pivot & DAX](https://certificates.mavenanalytics.io/67338d2f-ac7e-4f72-a324-8395112ab922#acc.bzFWTqdD)
   
 ### Through Coursera
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/1c8d488b8b2c7ef2d77000c55e9e23f1)
